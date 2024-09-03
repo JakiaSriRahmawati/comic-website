@@ -1,0 +1,4 @@
+halo nama saya jakia,  dari sukabumi
+
+resolusi saya:
+- membuat web menggunakan framework laravel
